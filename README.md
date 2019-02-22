@@ -26,3 +26,5 @@ The front-end is designed with HTML, CSS and Bootstrap.
 The back-end is designed with PHP and MySQL.
 Database should be created in phpMyAdmin using MySQL, via WAMP.
 For Password encryption, MD5 is used in the forms. 
+
+*Note: Please check **Project_Snapshots** folder for reference.*
